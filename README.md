@@ -2,9 +2,6 @@
 ## **Project Overview**
 
 The Real-time Hand Gesture Finger Counting System is an advanced computer vision application that utilizes MediaPipe's hand tracking technology to detect and count the number of fingers raised in real-time. This system provides accurate finger counting for both single and multiple hands, making it suitable for educational purposes, sign language recognition, and interactive applications.
-## **outputs**
-![Alt Text](output4.PNG)
-
 
 
 ## **Features**
@@ -170,6 +167,13 @@ text_thickness = 2              # Text thickness
 - **Number Recognition**: Count-based gesture identification
 - **Sign Language**: Foundation for ASL number recognition
 - **Interactive Control**: Use finger count for application control
+
+### **outputs**
+![2 fingers](output2.PNG)   ![4 fingers](output4.PNG)
+
+![5 fingers](output5.PNG)
+![7 fingers](output7.PNG)
+![10 fingers](output10.PNG)
 
 ## **Troubleshooting**
 
