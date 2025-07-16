@@ -169,11 +169,16 @@ text_thickness = 2              # Text thickness
 - **Interactive Control**: Use finger count for application control
 
 ### **outputs**
-![2 fingers](output2.PNG)   ![4 fingers](output4.PNG)
+ 
+| fingers | Results |
+|-------------|-------------|
+| 2 | ![2 fingers](output2.PNG)  |
+| 4 | ![4 fingers](output4.PNG) |
+| 5 |![5 fingers](output5.PNG) |
+| 7 | ![7 fingers](output7.PNG) |
+| 10 |![10 fingers](output10.PNG)| 
 
-![5 fingers](output5.PNG)
-![7 fingers](output7.PNG)
-![10 fingers](output10.PNG)
+
 
 ## **Troubleshooting**
 
